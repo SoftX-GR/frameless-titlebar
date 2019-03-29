@@ -12,7 +12,8 @@ const styles = {
     flexGrow: 0,
     flexShrink: 0,
     marginLeft: 'auto',
-    height: '100%'
+    height: '100%',
+    fontFamily: 'initial'
   }
 }
 export default class WindowControls extends Component {
